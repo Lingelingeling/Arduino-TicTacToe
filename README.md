@@ -3,7 +3,6 @@
 
 - Backlog Items sind angemessen gross (Eine User-Story sollte keine 2 Tage beanspruchen)
 - Stories sind klar und für alle verständlich formuliert
-- Backlog Items sind mit Story points geschätzt
 - Items haben Akzeptanzkriterien
 - Vorbedingungen jedes Items sind klar 
 - Blackboxtests für die Backlog items wurden geschrieben
